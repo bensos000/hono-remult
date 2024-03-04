@@ -1,0 +1,21 @@
+{
+  "name": "remulthono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hono/node-server": "^1.8.2",
+    "hono": "^4.0.9",
+    "remult": "^0.25.6-exp.6",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.1"
+  }
+}
